@@ -1,4 +1,23 @@
-# 《IPFS与区块链：原理与实战》全书相关资料
+# Attachment of《IPFS-and-Blockchain-Principles-and-Practice》
 
-- 出版社: 华章图书 | 机械工业出版社
-- 作者：董天一、戴嘉乐、黄禹铭
+## Multi-Language
+
+[![](https://img.shields.io/badge/Lang-English-blue.svg)](README.md)  [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
+
+
+- Press: [hzbook|www.hzbook.com/](http://www.hzbook.com/)
+- Author:[TianyiDong](https://github.com/dongtianyi)、[JialeDai](https://github.com/daijiale)、YumingHuang
+
+## Content
+
+### [Chapter8-Demo1:go-ipfs-git-serverless](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/tree/master/Demo1-go-ipfs-git-serverless)
+
+### [Chapter8-Demo2:js-ipfs-browser-readablestream](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/tree/master/Demo2-js-ipfs-browser-readablestream)
+
+## QA Feedback Channel
+
+[https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/issues](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/issues)
+
+## Contact：
+
+[https://twitter.com/daijiale6239](https://twitter.com/daijiale6239)
