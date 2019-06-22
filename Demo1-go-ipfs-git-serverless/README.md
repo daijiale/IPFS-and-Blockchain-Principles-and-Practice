@@ -20,7 +20,7 @@ $ cd ipfs-md-wiki.git
 $ git update-server-info
 ```
 
-之后，我们打开git仓库对象包，通过将大的packfile分解成所有的单独对象，以便我们git仓库中存在多分支版本情况时，也能一一被IPFS网络识别并添加。
+之后，我们打开git仓库对象包，通过将大的packfile分解成单独的对象，以便git仓库中存在多分支版本情况时，也能一一被IPFS网络识别并添加。
 
 ```sh
 $ cp objects/pack/*.pack .
