@@ -16,6 +16,8 @@
 
 [https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/issues](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice/issues)
 
+## [勘误表](Corrigendum.md)
+
 ## 联系方式：
 
 欢迎关注微信公众号：jialesoho
